@@ -1,0 +1,2 @@
+cryptor.admin      >> 123456
+cryptor.proid.app  >> #prodepa00#
